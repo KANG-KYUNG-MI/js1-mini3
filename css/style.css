@@ -1,0 +1,8 @@
+body {
+    border: 2px solid black;
+
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    justify-items: center;
+}
